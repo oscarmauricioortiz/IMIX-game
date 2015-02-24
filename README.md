@@ -1,0 +1,2 @@
+# IMIX-game
+Juego imix
